@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+*.py[cod]
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+# pyenv
+.python-version
+# pycharm
+.idea/
+# vscode
+*.vscode/
+# environment management
+.env
+.venv
+env/
+venv/
+ENV/
+*.cfg
+*.rpm
+# Build artifacts
+build/
+dist/
+igmseq_pipeline.egg-info/
+# Mac OS
+*.DS_Store
+dev/mysql/
+dev/localstack/startup/analyses/*
+dev/localstack/tmp

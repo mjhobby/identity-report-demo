@@ -1,0 +1,3 @@
+[console_scripts]
+identity_report = identity_report.scripts.run:main
+

@@ -1,0 +1,34 @@
+NGS Exome/NGS Exome/SEQ-1/1/S0000001 (1)  [IDReportDemo-3.3.0.18-iPLEX 12/17/19 00:00:01]     12/17/2019
+Sample Id	Sample Description	Call	Assay Id	Well Position	Description	Entry Operator	Calibration	Mass Shift	Rasters	Fractional UEP	Fractional Pausing	Resolution 	Resolution 2	Resolution 3	Area 	Area 2	Area 3
+sample002	 	TT	rs000001	A07	A.Conservative	MassSpec	On	-0.42	5	0	 	745.639	740.524		162.18	188.24
+sample002	 	A	rs000002	A07	A.Conservative	MassSpec	On	0.01	5	0.0141708	 	0	682.22		0	374.609
+sample002	 	C	rs000003	A07	C.Aggressive	MassSpec	On	-0.40	5	0.198588	 	677.871	445.053		218.416	97.2208
+sample002	 	GC	rs000004	A07	B.Moderate	MassSpec	On	0.11	5	0.103578	 	710.079	706.955		89.0372	122.747
+sample002	 	A	rs000005	A07	A.Conservative	MassSpec	On	-0.00	5	0.129614	 	1008.12	706.879		5.65801	264.158
+sample002	 	A	rs000006	A07	A.Conservative	MassSpec	On	0.20	5	0	 	514.272	738.102		7.638	139.355
+sample002	 	CT	rs000007	A07	C.Aggressive	MassSpec	On	-0.00	5	0	 	754.952	739.716		93.2366	164.585
+sample002	 	C	rs000008	A07	A.Conservative	MassSpec	On	0.16	5	0	 	792.589	0		218.93	0
+sample002	 	A	rs000009	A07	A.Conservative	MassSpec	On	0.16	5	0.0134557	 	638.049	713.435		0.78406	335.873
+sample002	 	G	rs000010	A07	A.Conservative	MassSpec	On	0.24	5	0.0393682	 	0	793.002		0	214.749
+sample002	 	A	rs000011	A07	A.Conservative	MassSpec	On	0.45	5	0	 	0	698.189		0	268.416
+sample002	 	AG	rs000012	A07	A.Conservative	MassSpec	On	-0.02	5	0	 	826.025	828.153		82.8456	76.6039
+sample002	 	AG	rs000013	A07	B.Moderate	MassSpec	On	0.61	5	0.00142833	 	647.362	649.016		244.785	168.316
+sample002	 	GT	rs000014	A07	A.Conservative	MassSpec	On	-0.25	5	0.0273193	 	718.19	616.315		172.07	206.469
+sample002	 	G	rs000015	A07	A.Conservative	MassSpec	On	0.21	5	0.00909145	 	719.868	680.078		210.803	10.2295
+sample002	 	AT	rs000016	A07	A.Conservative	MassSpec	On	0.25	5	0.069347	 	768.286	708.217		102.921	108.212
+sample002	 	G	rs000017	A07	A.Conservative	MassSpec	On	0.13	5	0.0445637	 	727.43	0		187.122	0
+sample002	 	GA	rs000018	A07	A.Conservative	MassSpec	On	-0.18	5	0.00657137	 	821.002	729.814		63.3548	85.2197
+sample002	 	GA	rs000019	A07	A.Conservative	MassSpec	On	-0.18	5	0	 	690.049	752.07		123.373	131.655
+sample002	 	A	rs000020	A07	A.Conservative	MassSpec	On	0.30	5	0.20231	 	752.677	754.358		156.383	33.4457
+sample002	 	A	rs000021	A07	A.Conservative	MassSpec	On	-0.27	5	0.0109238	 	0	693.113		0	259.903
+sample002	 	CC	rs000022	A07	A.Conservative	MassSpec	On	0.69	5	0	 	737.234	714.527		108.172	106.305
+sample002	 	AG	rs000023	A07	A.Conservative	MassSpec	On	0.27	5	0.16787	 	705.724	707.22		90.7987	76.7553
+sample002	 	C	rs000024	A07	A.Conservative	MassSpec	On	-0.08	5	0.0632173	 	0	711.063		0	163.649
+sample002	 	T	rs000025	A07	A.Conservative	MassSpec	On	-0.59	5	0	 	0	609.337		0	176.978
+sample002	 	A	rs000026	A07	A.Conservative	MassSpec	On	-0.35	5	0.023905	 	730.876	737.516		144.481	13.1577
+sample002	 	XY	AMEL_XY	A07	A.Conservative	MassSpec	On	-1.17	5	0.0378777	 	612.862	615.932		134.507	154.472
+sample002	 	G	rs000028	A07	A.Conservative	MassSpec	On	-0.19	5	0.353461	 	639.808	0		168.514	0
+sample002	 	Y	HSFY-2	A07	A.Conservative	MassSpec	On	-0.30	5	0.0937667	 	0	579.446		0	242.381
+sample002	 	C	rs000029	A07	A.Conservative	MassSpec	On	-0.33	5	0.0302429	 	482.918	0		198.733	0
+sample002	 	C	rs000030	A07	C.Aggressive	MassSpec	On	-0.63	5	0.138831	 	644.628	770.584		162.52	27.9992
+sample002	 	Y	XKRY-1	A07	A.Conservative	MassSpec	On	-0.70	5	0.332628	 	567.194	0		196.969	0
